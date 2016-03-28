@@ -1,5 +1,5 @@
 # AdColony for Supersonic Ads Mediation Platform
-Add support for [AdColony](https://www.chartboost.com/) in [Supersonic Ads](https://www.supersonic.com/) mediation platform to your Cordova app
+Add support for [AdColony](https://www.adcolony.com/) in [Supersonic Ads](https://www.supersonic.com/) mediation platform to your Cordova app
 
 ## How do I install it? ##
 
