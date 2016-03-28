@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-supersonicads-mediation-adcolony",
+  "version": "0.0.1",
+  "description": "Add support for AdColony in supersonic ads mediation platform for a Cordova app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeVeNDuS/cordova-plugin-supersonicads-mediation-adcolony.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "SeVeNDuS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakgeek/cordova-plugin-supersonicads-mediation-adcolony/issues"
+  },
+  "homepage": "https://github.com/blakgeek/cordova-plugin-supersonicads-mediation-adcolony"
+}
