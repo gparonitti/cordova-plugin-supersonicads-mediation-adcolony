@@ -1,11 +1,15 @@
 repositories {
-	maven {
-		url "https://dl.bintray.com/supersonic/android-adapters"
-	}
+    maven {
+        url "https://adcolony.bintray.com/AdColony"
+    }
+    maven {
+        url "https://dl.bintray.com/supersonic/android-adapters"
+    }
 }
 
 cdvPluginPostBuildExtras.add({
 	dependencies {
-	    compile 'com.supersonic.adapters:adcolonyadapter:1.1.8@jar'
+        compile 'com.supersonic.adapters:adcolonyadapter:2.1.4@jar'
+        compile 'com.adcolony:sdk:3.0.4'
 	}
-});
+})
