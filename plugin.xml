@@ -22,7 +22,6 @@
                       android:configChanges="keyboardHidden|orientation|screenSize"
                       android:hardwareAccelerated="true"/>
         </config-file>
-
         <framework src="src/android/build.gradle" custom="true" type="gradleReference" />
     </platform>
 </plugin>
