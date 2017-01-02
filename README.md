@@ -1,5 +1,5 @@
 # AdColony for Supersonic Ads Mediation Platform
-Add support for [AdColony](https://www.adcolony.com/) in [Supersonic Ads](https://www.supersonic.com/) mediation platform to your Cordova app
+Add support for [AdColony](https://www.adcolony.com/) in [Supersonic Ads](https://www.supersonic.com/) mediation platform to your Cordova app.
 This is a fork from [cordova-plugin-supersonicads-mediation-adcolony](https://github.com/SeVeNDuS/cordova-plugin-supersonicads-mediation-adcolony) by SeVeNDuS. 
 This is simply a version update of the adapter and of the android manifest. Enjoy!
 
