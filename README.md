@@ -17,11 +17,9 @@ phonegap local plugin add https://github.com/gparonitti/cordova-plugin-supersoni
 
 ## How do I use it? ##
 This plugin is for use with the [Supersonic Ads Cordova Plugin](https://github.com/blakgeek/cordova-plugin-supersonicads/blob/master/README.md) of [blakgeek](https://github.com/blakgeek)
-Check the original [IronSources docs](http://developers.ironsrc.com/ironsource-mobile/android/adcolony-mediation-guide/#step-1) to configure your supersonicAds dashboard 
 
 ## Can I just see a working example?
 Not at the moment.  
 
 ## How do I configure in Supersonic?
-Supersonic has a perfect guide to do it 
-http://developers.supersonic.com/android/sdk-integration/adcolony-video-mediation-guide/
+Check the original [IronSources docs](http://developers.ironsrc.com/ironsource-mobile/android/adcolony-mediation-guide/) to configure your supersonicAds dashboard
